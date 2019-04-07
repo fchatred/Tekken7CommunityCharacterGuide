@@ -139,6 +139,7 @@ Top 15 moves:
 Punishes:
 
 Standing:
+
 | i10       | Damage       | Status |
 | ------------- |:-------------:| -----:|
 | 1,2      | 27 | KND |
