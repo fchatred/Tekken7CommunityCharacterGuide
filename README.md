@@ -135,11 +135,13 @@ Difficulty - ????
 * Street Fighter
 * Unique characters
 
+***
+
 Top Moves:
 
-Punishes:
+***
 
-Standing:
+Standing Punishes:
 
 | i10       | Damage       | Status |
 | ------------- |:-------------:| -----:|
@@ -185,7 +187,7 @@ Standing:
 
 ***
 
-While Standing/Crouching:
+While Standing/Crouching punishes:
 
 | i10      | Damage       | Status |
 | ------------- |:-------------:| -----:|
