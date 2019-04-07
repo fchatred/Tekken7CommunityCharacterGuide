@@ -110,9 +110,9 @@ I'd love to give credits to some awesome people who've been gracious enough to h
 
 ***
 
-## _**Akuma**_ 
+## _**Akuma**_
 
-Difficulty - ???? 
+Difficulty - ????
 
 >**Akuma is the SF guest character in T7. His design is completely unique from other Tekken characters due to his SF origins. Similar to the SF games, he has a meter gauge, where he builds the meter via doing moves on the opponent, using special moves or getting hit. He can use the meter to extend his combos and pressure or burn them on approach tools like fireballs. Once he’s in, he can abuse his powerful low options one of which that can be cancelled into fireball or tatsu point blank for a huge damaging low option as well as his sweep which knocks down for strong oki. He has a demon flip with a bunch of moves out of it that can be used to approach the opponent and to initiate pressure. Akuma gets a lot of his big damage via jumping; quite the sin in Tekken as jumping can be interrupted into big combos,  It can be hard for some characters to stop this flip. He’s a very all or nothing 50/50 character and with meter, his mixups become incredibly damaging and safe. He has a shoryuken which is invincible at the start, meaning he can disrespect a lot of pressure and make the opponent be wary about applying pressure on Akuma. With meter, his jabs become the best punisher in the game as he can do jab cancels into shoryuken meter cancel for huge damage on anything unsafe.**
 
@@ -153,7 +153,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Akuma:
+How to punish:
 [Tekken 7 S2 How to Punish Akuma Guide](https://www.youtube.com/watch?v=LIHIa2xNXEg)
 
 Notable players:
@@ -207,6 +207,9 @@ While Standing/Crouching:
 Useful strings:
 
 Combos:
+
+How to punish: [Tekken 7 S2 How to Punish Alisa Guide
+](https://www.youtube.com/watch?v=Nwp97WYrZV8)
 
 Notable players:  
 NA: cuddlecore  
@@ -346,7 +349,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Asuka:
+How to punish:
 [Tekken 7 S2 How to Punish Asuka Guide](https://www.youtube.com/watch?v=N6S-OuM-taw)
 
 Notable players:
@@ -437,7 +440,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Bob:
+How to punish:
 [Tekken 7 S2 How to Punish Bob Guide](https://www.youtube.com/watch?v=OQsiqNzTpOs)
 
 Notable players:
@@ -487,7 +490,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Bryan: [Tekken 7 S2 How to Punish Bryan Guide](https://www.youtube.com/watch?v=XZLyazA8MpQ)
+How to punish: [Tekken 7 S2 How to Punish Bryan Guide](https://www.youtube.com/watch?v=XZLyazA8MpQ)
 
 Notable players:
 
@@ -535,7 +538,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Claudio:[Tekken 7 S2 How to Punish Claudio Guide](https://www.youtube.com/watch?v=hflMhhdyCPo)
+How to punish:[Tekken 7 S2 How to Punish Claudio Guide](https://www.youtube.com/watch?v=hflMhhdyCPo)
 
 Notable players:
 
@@ -580,7 +583,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Devil Jin:
+How to punish: [Tekken 7 S2 How to Punish Devil Jin Guide](https://www.youtube.com/watch?v=vx6qJuiyD9s)
 
 Notable players:
 
@@ -629,7 +632,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Dragunov:
+How to punish: [Tekken 7 S2 How to Punish Dragunov Guide](https://www.youtube.com/watch?v=JXoJEYyBSEA)
 
 Notable players:
 
@@ -717,7 +720,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Eliza:
+How to punish: [Tekken 7 S2 How to Punish Eliza Guide](https://www.youtube.com/watch?v=YDLddxm8a4I)
 
 Notable players:
 
@@ -761,7 +764,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Feng:
+How to punish: [Tekken 7 S2 How to Punish Feng Guide](https://www.youtube.com/watch?v=m24ma1y_k2M)
 
 Notable players:
 
@@ -807,7 +810,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Geese:
+How to punish: [Tekken 7 S2 How to Punish Geese Guide](https://www.youtube.com/watch?v=pu9teBcJiZQ)
 
 Notable players:
 
@@ -899,7 +902,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Heihachi:
+How to punish: [Tekken 7 S2 How to Punish Heihachi Guide](https://www.youtube.com/watch?v=EvFIZnOdatM)
 
 Notable players:
 
@@ -945,7 +948,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Hwoarang:
+How to punish:
 
 Notable players:
 
@@ -991,7 +994,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Jack-7:
+How to punish: [Tekken 7 S2 How to Punish Jack-7 Guide](https://www.youtube.com/watch?v=DbsdJmSzgEY)
 
 Notable players:
 
@@ -1036,7 +1039,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Jin:
+How to punish: [Tekken 7 S2 How to Punish Jin Guide](https://www.youtube.com/watch?v=DbocmsR3m4o)
 
 Notable players:
 
@@ -1081,7 +1084,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Josie:
+How to punish: [Tekken 7 S2 How to Punish Josie Guide](https://www.youtube.com/watch?v=spabiSWsHw4)
 
 Notable players:
 
@@ -1127,7 +1130,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Julia:
+How to punish: [Tekken 7 S2 How to Punish Julia](https://www.youtube.com/watch?v=irsC_fa3Ox8)
 
 Notable players:
 
@@ -1171,7 +1174,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Katarina:
+How to punish: [Tekken 7 S2 How to Punish Katarina Guide](https://www.youtube.com/watch?v=BGGHHqlrn7A)
 
 Notable players:
 
@@ -1215,7 +1218,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Kazumi:
+How to punish: [Tekken 7 S2 How to Punish Kazumi Guide](https://www.youtube.com/watch?v=5BREKhkVRPw)
 
 Notable players:
 
@@ -1257,7 +1260,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Kazuya:
+How to punish: [Tekken 7 S2 How to Punish Kazuya Guide](https://www.youtube.com/watch?v=cvRzeS927Us)
 
 Notable players:
 
@@ -1301,7 +1304,7 @@ Useful Strings:
 
 Combos:
 
-How to punish King:
+How to punish: [Tekken 7 S2 How to Punish King Guide](https://www.youtube.com/watch?v=jgoWeFRWwpg)
 
 Notable players:
 
@@ -1344,7 +1347,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Lars:
+How to punish:
 
 Notable players:
 
@@ -1519,7 +1522,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Leo:
+How to punish: [Tekken 7 S2 How to Punish Leo Guide](https://www.youtube.com/watch?v=S6QAuuvxED0)
 
 Notable players:
 
@@ -1563,7 +1566,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Lili:
+How to punish: [Tekken 7 S2 How to Punish Lili Guide](https://www.youtube.com/watch?v=xnpcDUOVl4c)
 
 Notable players:
 
@@ -1606,7 +1609,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Lucky Chloe:
+How to punish: [Tekken 7 S2 How to Punish Lucky Chloe Guide](https://www.youtube.com/watch?v=AROGUVsphjo)
 
 Notable players:
 
@@ -1652,7 +1655,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Marduk: [Tekken 7 S2 How to Punish Marduk Guide](https://www.youtube.com/watch?v=IdvIz1s7dRw)
+How to punish: [Tekken 7 S2 How to Punish Marduk Guide](https://www.youtube.com/watch?v=IdvIz1s7dRw)
 
 Notable players:
 
@@ -1695,7 +1698,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Master Raven:
+How to punish: [Tekken 7 S2 How to Punish Master Raven Guide](https://www.youtube.com/watch?v=cgccYX_deMY)
 
 Notable players:
 
@@ -1738,7 +1741,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Miguel:
+How to punish: [Tekken 7 How to Punish Miguel Guide](https://www.youtube.com/watch?v=vvTACA6wXQY)
 
 Notable players:
 
@@ -1783,7 +1786,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Negan:
+How to punish: [Tekken 7 S2 How to Punish Negan](https://www.youtube.com/watch?v=BiJX6DLblGw)
 
 Notable players:
 
@@ -1924,7 +1927,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Paul:
+How to punish: [Tekken 7 S2 How to Punish Paul Guide](https://www.youtube.com/watch?v=6lY22Uly-3c)
 
 Notable players:
 
@@ -1968,7 +1971,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Shaheen:
+How to punish: [Tekken 7 S2 How to Punish Shaheen Guide](https://www.youtube.com/watch?v=6jS1BWYF210)
 
 Notable players:
 
@@ -1992,7 +1995,7 @@ Pros:
 
 Cons:
 
-* Lacks a i15 launcher 
+* Lacks a i15 launcher
 * Unrewarding whiff punishers
 * Very poor ws punishment other than i11 ws
 
@@ -2013,7 +2016,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Steve:
+How to punish: [Tekken 7 S2 How to Punish Steve Guide](https://www.youtube.com/watch?v=_vOtOaGplvo)
 
 Notable players:
 
@@ -2060,7 +2063,7 @@ Useful Strings:
 
 Combos:
 
-How to punish Xiaoyu:
+How to punish: [Tekken 7 S2 How to Punish Xiaoyu Guide](https://www.youtube.com/watch?v=P8gWx62t8YM)
 
 Notable players:
 
