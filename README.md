@@ -8,85 +8,85 @@
  	 
 [Akuma:](#akuma)
 
-Anna:
+Anna
 
-Armor King:
+Armor King
 	 
-Asuka:
+Asuka
 	 
-Bob:
+Bob
 	 
-Bryan:
+Bryan
 	 
-Claudio:
+Claudio
 	 
-Devil Jin:
+Devil Jin
 	 
-Dragunov:
+Dragunov
 	 
-Eddy:
+Eddy
 	 
-Eliza:
+Eliza
 	 
-Feng:
+Feng
 	 
-Geese:
+Geese
 	 
-Gigas:
+Gigas
 	 
-Heihachi:
+Heihachi
 	
-Hwoarang:
+Hwoarang
 	 
-Jack-7:
+Jack-7
 	 
-Jin:
+Jin
 	 
-Josie:
+Josie
 	 
-Katarina:
+Katarina
 	 
-Kazumi:
+Kazumi
 	 
-Kazuya:
+Kazuya
 	 
-King:
+King
 	 
-Kuma:
+Kuma
 	 
-Lars:
+Lars
 	 
-Law:
+Law
 	
-Lee:
+Lee
 	 
-Lei:
+Lei
 	 
-Leo:
+Leo
 	 
-Lili:
+Lili
 	 
-Lucky Chloe:
+Lucky Chloe
 	 
-Master Raven:
+Master Raven
 	
-Marduk:
+Marduk
 	 
-Miguel:
+Miguel
 	 
-Nina:
+Nina
 	 
-Noctis:
+Noctis
 	 
-Paul:
+Paul
 	 
-Shaheen:
+Shaheen
+	
+Steve
 	 
-Steve:
+Xiaoyu
 	 
-Xiaoyu:
-	 
-Yoshimitsu:
+Yoshimitsu
 	 
 ## **Overview**
 
