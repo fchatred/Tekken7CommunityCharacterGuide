@@ -94,7 +94,7 @@ This guide is meant to help contain a lot of info for each character in one plac
 
 I'd love to give credits to some awesome people who've been gracious enough to help me with this guide! Please be awesome and support each one of these people!
 
-* Fergus2k8 for letting me use his breakdown and pro’s and con’s of each character from his character overview guide! https://twitter.com/Fergus_TK, twitch.tv/fergus2k8  , Fergus2k8 Youtube
+* Fergus2k8 for letting me use his breakdown and pro’s and con’s of each character from his character overview guide! [Twitter](https://twitter.com/Fergus_TK), [Twitch](https://twitch.tv/fergus2k8)  , [Youtube](https://www.youtube.com/user/Fergus61293).
 
 * rbnorway for their frame data: http://rbnorway.org/t7-frame-data/
 
@@ -102,8 +102,9 @@ I'd love to give credits to some awesome people who've been gracious enough to h
 
 * Need to remember to give credit to main people posting combos in each character discord
 
-* PencilTekken for his amazing guides on how to deal with each character! https://twitter.com/PencilTekken, PencilTekken Youtube
+* PencilTekken for his amazing guides on how to punish each character! [Twitter](https://twitter.com/PencilTekken), [Youtube](https://www.youtube.com/channel/UCjQPaMb6BgYNkf-Lp47awIg)
 
+* The whole T7 Chicken team for making such an amazing app
 
 
 ## _**Alisa**_
@@ -134,13 +135,25 @@ Difficulty - Easy
 * Defensive gameplay
 
 Top 15 moves:
+
 Punishes:
+
 Standing:
-	While Standing/Crouching:
+| i10       | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| 1,2      | 27 | KND |
+| 1~SRK 1     | 22    |   Launch - Follow up with FADC for combo |
+| 1~SRK 2 | 1 trillion     |    for free |
+|           
+
+While Standing/Crouching:
+
+Useful strings:
 
 Combos:
-Best strings:
-Noteable players:
+
+Noteable players: Chanel
+
 Discord:
 
 
@@ -173,5 +186,5 @@ Difficulty - ????
 | ------------- |:-------------:| -----:|
 | 1,2      | 27 | KND |
 | 1~SRK 1     | 22    |   Launch - Follow up with FADC for combo |
-| 1~SRK 2 | matt likes dick lol     |    for free |
+| 1~SRK 2 | 1 trillion     |    for free |
 |           
