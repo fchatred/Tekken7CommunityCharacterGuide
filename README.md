@@ -112,7 +112,7 @@ I'd love to give credits to some awesome people who've been gracious enough to h
 
 ## _**Akuma**_
 
-Difficulty - Advanced
+Difficulty - ????
 
 >**Akuma is the SF guest character in T7. His design is completely unique from other Tekken characters due to his SF origins. Similar to the SF games, he has a meter gauge, where he builds the meter via doing moves on the opponent, using special moves or getting hit. He can use the meter to extend his combos and pressure or burn them on approach tools like fireballs. Once he’s in, he can abuse his powerful low options one of which that can be cancelled into fireball or tatsu point blank for a huge damaging low option as well as his sweep which knocks down for strong oki. He has a demon flip with a bunch of moves out of it that can be used to approach the opponent and to initiate pressure. Akuma gets a lot of his big damage via jumping; quite the sin in Tekken as jumping can be interrupted into big combos,  It can be hard for some characters to stop this flip. He’s a very all or nothing 50/50 character and with meter, his mixups become incredibly damaging and safe. He has a shoryuken which is invincible at the start, meaning he can disrespect a lot of pressure and make the opponent be wary about applying pressure on Akuma. With meter, his jabs become the best punisher in the game as he can do jab cancels into shoryuken meter cancel for huge damage on anything unsafe.**
 
@@ -145,13 +145,88 @@ Standing:
 | ------------- |:-------------:| -----:|
 | 1,2      | 27 | KND |
 | 1~SRK 1     | 22    |   Launch - Follow up with FADC for combo |
-| 1~SRK 2 | 1 trillion     |    for free |
+| 1~SRK 2 | 33     |    KND |
+|  1~QCB+4       | 30       | KND
+| QCB+4          | 23        | KND
+
+| i12      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| d/f+3      | 14 | +1 On Hit |
+| d+2~QCF+1     | 21+    |   Cancel QCF+1 into FADC for combo |
+| d+2~QCB+3 | 17+     |    Launch |
+
+| i13      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| d/f+1,2      | 30 | +5 On Hit |
+
+| i14      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| b+1      | 17 | Launch |
+| 4,3    | 29    |   +19 On Hit |
+
+| i15      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| 2~SRK1      | 30 | Launch - Follow up with FADC for combo |
+| 2~QCF+1     | 29+    |   Cancel QCF+1 into FADC for combo |
+| f,f+2:1 | 34    |    KND |
+
+| i16      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| d/f+2,1    | 20+ | Launch |
+
+| i17      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| f+3      | 16 | +1 On Hit |
+| d+4   | 34    |   KND |
+
+| i19      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| d/f+4    | 24 | KND |
+
+***
 
 While Standing/Crouching:
 
+| i10      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| d+1~SRK2     | 31 | KND |
+| d+1~QCB+4    | 28    |   KND |
+| QCB+4 | 23    |    KND |
+
+| i11      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| WS4,4   | 30 | -5 On Hit |
+
+| i12      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| d+2~QCF+1      | 21+ | Cancel QCF+1 into FADC for combo |
+| d+2~QCB+3   | 16+    |   Launch |
+
+| i13      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| WS1~QCB+3      | 22+ | Launch |
+| WS1~SRK1     | 27    |   Launch - Follow up with FADC for combo |
+| WS1~QCF+1 | 26+     |    +14 On Hit - Cancel QCF+1 into FADC for combo |
+|  WS3       | 17       | +5 On Hit
+
+| i15      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| WS2     | 17+ | Launch |
+| f,f+2:1   | 34    |   KND |
+
+| i17      | Damage       | Status |
+| ------------- |:-------------:| -----:|
+| d+4   | 20 | KND |
+
+***
+
 Useful Strings:
 
+***
+
 Combos:
+
+***
 
 How to punish:
 [Tekken 7 S2 How to Punish Akuma Guide](https://www.youtube.com/watch?v=LIHIa2xNXEg)
