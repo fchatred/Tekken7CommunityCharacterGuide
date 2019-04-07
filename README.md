@@ -259,7 +259,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/jtq2GZg
 
 ***
 
@@ -303,7 +303,7 @@ How to punish Armor King:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/k3NHgB3
 
 ***
 
@@ -351,7 +351,7 @@ How to punish Asuka:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/Kt44rQ5
 
 ***
 
@@ -396,7 +396,7 @@ How to punish Bears:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/UrQ2Fe6
 
 ***
 
@@ -442,7 +442,7 @@ How to punish Bob:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/ZCNVW7j
 
 ***
 
@@ -493,7 +493,7 @@ Notable players:
 
 NA: JimmyJTran
 
-Discord: https://discord.gg/5B3rxfA
+Discord: https://discord.gg/GDnPHs9
 
 ***
 
@@ -539,35 +539,34 @@ How to punish Claudio:[Tekken 7 S2 How to Punish Claudio Guide](https://www.yout
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/eCPT5mv
 
 ***
 
 ## _**Devil Jin**_
 
-Difficulty - Medium
+Difficulty - Advanced
 
->**Nina’s sister makes her return in S2. Anna is quite an extreme character in that she is the definition of a high risk/reward character. She’s very strong at approaching the opponent with moves such as QCF1, a + on block fast CH high launcher with quick recovery, FF2 another + on block high which is a homing. With these tools, Anna is good at closing the gap with her opponent and bullies with her pokes and cancels. She has 2 main mixup scenarios, her FC game and her Chaos Judgement (CJM) stance. Her FC game has an unseeable low launcher which is also complemented by various mids from crouching. Her CJM stance has moves such as a chunky low option in CJM d33, various mid options, fast highs to condition the opponent to respect her. She has a few moves that transitions into this CJM stance, some good and some bad and it’s up to the Anna player to use them well. Anna is all about forcing herself into the opponent, conditioning them to respect her with her pokes and then applying the FC/CJM mixup situations. However her punishment is the worst in the game bar her rage art which is tied fastest and has huge range. It is sometimes encouraged to not take the punish from crouch as Anna and take the FC mixup instead. Good reads is required as an Anna player as she has big damage from her openings but they are very unsafe.**
+>**Compared to the other Mishimas, Devil Jin can be considered the “well-rounded” one of the 3. He has stronger pokes than Kazuya and better safety and lows than Heihachi, but he’s not as hard hitting as Kazuya or as CH heavy as Heihachi. As a Mishima, he has access to the standard Mishima tools, EWGF (+5 on block high launcher with good recovery), hellsweep (hard hitting low, his version trips the opponent up for a combo), strong jab hitconfirms and a wavedash to close the gap between himself and the opp with ease. His poking game is quite strong as he has a variety of lows to choose from depending on the situation. Whether it’s hard hitting with hellsweeps, simple poke pressure with db2 and d4 and plenty of strong mid poke strings to complement this. He has the usual Mishima strong space control with EWGF and his own unique ranged mids to dictate the pace with. He also has a strong panic move in u4 which can be a mixup on block vs specific characters.**
 
 Pros:  
 
-* Some of the best mixups in the game
-* One of the best rage arts
-* Huge damage output
-* Strong comeback potential
-* Good approach
+* Strong poking game
+* Strong space control
+* Strong mixup game
+* Great mobility
+* High damage output
+* Good panic moves
 
 Cons:
 
-* Worst punishment in the game
-* Has to commit a lot 
-* Inconsistent hitboxes and followups
-* Awful tracking
+* ????
 
 Recommended for players who like:
 
-* Mixup intensive characters
-* Rushdown and offensive
+* Strong poking chars
+* Well rounded chars
+* Ability to change up pace at player’s own discretion.
 
 Top Moves:
 
@@ -585,7 +584,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/j2ZKVnk
 
 ***
 
@@ -631,7 +630,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/TVYgHZM
 
 ***
 
@@ -677,7 +676,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/JJx5tKf
 
 ***
 
@@ -723,7 +722,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/4d7nAw9
 
 ***
 
@@ -769,7 +768,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/nd4j595
 
 ***
 
@@ -815,7 +814,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/SWzYZsJ
 
 ***
 
@@ -861,7 +860,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/jSBnMW4
 
 ***
 
@@ -907,7 +906,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/j3WKYVj
 
 ***
 
@@ -953,7 +952,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/rXNYq9j
 
 ***
 
@@ -999,7 +998,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/Pg7XgsT
 
 ***
 
@@ -1045,7 +1044,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/yMcYG4G
 
 ***
 
@@ -1091,7 +1090,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/6wdsEQx
 
 ***
 
@@ -1137,7 +1136,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/hdHmZBg
 
 ***
 
@@ -1183,7 +1182,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/R53MFQh
 
 ***
 
@@ -1229,7 +1228,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/J8kw5Pd
 
 ***
 
@@ -1275,7 +1274,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/Vg7HXVK
 
 ***
 
@@ -1321,7 +1320,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/EYcqqfA
 
 ***
 
@@ -1367,7 +1366,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/6E34uZK
 
 ***
 
@@ -1413,7 +1412,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/jWvTCMv
 
 ***
 
@@ -1459,7 +1458,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/7Dypwgh
 
 ***
 
@@ -1505,7 +1504,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/BJywSHH
 
 ***
 
@@ -1551,7 +1550,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/015GQzS1py31Ainie
 
 ***
 
@@ -1597,7 +1596,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/pFKBKXK
 
 ***
 
@@ -1643,7 +1642,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/TzDgprm
 
 ***
 
@@ -1689,7 +1688,7 @@ How to punish Marduk: [Tekken 7 S2 How to Punish Marduk Guide](https://www.youtu
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/GTnK3pU
 
 ***
 
@@ -1735,7 +1734,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/QpnEwSm
 
 ***
 
@@ -1781,7 +1780,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/kpmtMpz
 
 ***
 
@@ -1827,7 +1826,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/gGTPu9Y
 
 ***
 
@@ -1873,7 +1872,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/bGdJHn5
 
 ***
 
@@ -1919,7 +1918,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/5Ka2CyV
 
 ***
 
@@ -1965,7 +1964,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/sKY7Yeh
 
 ***
 
@@ -2011,7 +2010,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/AWqNzQ6
 
 ***
 
@@ -2057,7 +2056,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/3qRmSTj
 
 ***
 
@@ -2103,7 +2102,7 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/ChpgrWB
 
 ***
 
@@ -2149,4 +2148,4 @@ How to punish Anna:
 
 Notable players:
 
-Discord:
+Discord: https://discord.gg/nEFd5dc
