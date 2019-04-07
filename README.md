@@ -112,7 +112,7 @@ I'd love to give credits to some awesome people who've been gracious enough to h
 
 ## _**Akuma**_
 
-Difficulty - ????
+Difficulty - Advanced
 
 >**Akuma is the SF guest character in T7. His design is completely unique from other Tekken characters due to his SF origins. Similar to the SF games, he has a meter gauge, where he builds the meter via doing moves on the opponent, using special moves or getting hit. He can use the meter to extend his combos and pressure or burn them on approach tools like fireballs. Once he’s in, he can abuse his powerful low options one of which that can be cancelled into fireball or tatsu point blank for a huge damaging low option as well as his sweep which knocks down for strong oki. He has a demon flip with a bunch of moves out of it that can be used to approach the opponent and to initiate pressure. Akuma gets a lot of his big damage via jumping; quite the sin in Tekken as jumping can be interrupted into big combos,  It can be hard for some characters to stop this flip. He’s a very all or nothing 50/50 character and with meter, his mixups become incredibly damaging and safe. He has a shoryuken which is invincible at the start, meaning he can disrespect a lot of pressure and make the opponent be wary about applying pressure on Akuma. With meter, his jabs become the best punisher in the game as he can do jab cancels into shoryuken meter cancel for huge damage on anything unsafe.**
 
